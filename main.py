@@ -1,8 +1,6 @@
 import json
 import os
 
-data = {"aaa": 1, "aab": 2}
-
 # Specify all of the languages
 languages = ("Dutch", "English")
 
@@ -52,10 +50,29 @@ def n_gram(text, gramLength):
             d[gram] += 1
     return d
 
-print(n_gram("ananas", 2))
+# A function that can count up the total number of n-grams in a model
 
-# TODO Function that takes a text file and stores it into a string (also take out redundant spaces)
+def gramCounter(model):
+    totalGrams = 0
+    for key, value in model.items():
+        totalGrams += value
+    return totalGrams
 
+
+# Function that takes a text file and stores it into a string
+def readText(filename):
+    text = ""
+    with open(os.path.join(filename), 'r') as fp:
+        for line in fp.readlines():
+            text += line
+    return text
+
+
+# TODO a Function that prepares a text by getting rid of things like \n and extra spaces
+
+# TODO Think of something to count the amount of different characters you're using
+
+def prepareText(text):
 
 
 # Save a model to a file
@@ -79,22 +96,16 @@ if __name__ == "__main__":
     createDirs() # Create all the directories if they don't exist yet
 
     for language in languages:
+
         for filename in os.listdir(os.path.join(language, datasets)):
+
+            fprefix = os.path.splitext(filename)[0]
             m = hasModel(language, filename)
-            print("{}, {}".format(filename, m))
-            # fprefix = os.path.splitext(filename)[0]
-            # path = os.path.join(language, models, fprefix + ".json")
-            # if not os.path.isfile(path):
-            #     with open((os.path.join(path)), 'w') as fp:
-            #         json.dump(data, fp)
+            print("{}: {}, {}".format(language, filename, m))
 
-filename = "n-gram.json"
+            if not m:
 
-# with open(filename, 'w') as fp:
-#     json.dump(data, fp)
-
-
-# with open(filename, 'r') as fp:
-#     data2 = json.load(fp)
-
-# print(data2)
+                text = readText(os.path.join(language, datasets, filename))
+                model = n_gram(text, 2)
+                saveModel(model, os.path.join(language, models, fprefix + ".json"))
+                print(gramCounter(model))
