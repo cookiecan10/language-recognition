@@ -1,12 +1,13 @@
 import json
 import os
+import re
 
 # Specify all of the languages
 languages = ("Dutch", "English")
 
 # variables that can use
-datasets = "datasets"
-models = "models"
+datasetDir = "datasets"
+modelDir = "models"
 
 
 # Check if the directory has been created yet, if not, will create it
@@ -19,17 +20,15 @@ def makeDir(*args):
 
 
 # Check if every language has its own directory and sub-directories
-def createDirs(languages=languages,datasets=datasets, models=models):
+def createDirs(languages=languages, datasets=datasetDir, models=modelDir):
     for language in languages:
         makeDir(language)
-
         makeDir(language, datasets)
-
         makeDir(language, models)
 
 
 # Function that checks if a textfile has a corresponding model file
-def hasModel(language, filename, models=models):
+def hasModel(language, filename, models=modelDir):
     fprefix = os.path.splitext(filename)[0]
     if os.path.isfile( os.path.join(language, models, fprefix + ".json")):
         return True
@@ -70,10 +69,6 @@ def readText(filename):
 
 # TODO a Function that prepares a text by getting rid of things like \n and extra spaces
 
-# TODO Think of something to count the amount of different characters you're using
-
-def prepareText(text):
-
 
 # Save a model to a file
 def saveModel(model, filename):
@@ -81,11 +76,23 @@ def saveModel(model, filename):
         json.dump(model, fp)
 
 # Load a model from a file
-def loadModel(model, filename):
+def loadModel(filename):
     with open(filename, 'r') as fp:
         return json.load(fp)
 
 # TODO Go through every language directory, and create a model for every .txt file if it hasn't been created yet
+
+# TODO A function that combines 2 models
+
+def combineModels(m1, m2):
+
+    for gram, count in m1.items():
+
+        if gram in m2:
+            m2[gram] += count
+        else:
+            m2[gram] = count
+    return m2
 
 # TODO Make a function that adds together all of the models for a single language
 
@@ -97,7 +104,7 @@ if __name__ == "__main__":
 
     for language in languages:
 
-        for filename in os.listdir(os.path.join(language, datasets)):
+        for filename in os.listdir(os.path.join(language, datasetDir)):
 
             fprefix = os.path.splitext(filename)[0]
             m = hasModel(language, filename)
@@ -105,7 +112,20 @@ if __name__ == "__main__":
 
             if not m:
 
-                text = readText(os.path.join(language, datasets, filename))
+                text = readText(os.path.join(language, datasetDir, filename))
                 model = n_gram(text, 2)
-                saveModel(model, os.path.join(language, models, fprefix + ".json"))
+                saveModel(model, os.path.join(language, modelDir, fprefix + ".json"))
                 print(gramCounter(model))
+
+        models = []
+        p = os.path.join(language, modelDir)
+        print(p)
+        for m in os.listdir(p):
+            print(m)
+            models.append(loadModel(os.path.join(language, modelDir, m)))
+
+        ultimateModel = dict()
+        for m in models:
+            ultimateModel = combineModels(ultimateModel,m)
+        print("Ultimate Model: ")
+        print(ultimateModel)
