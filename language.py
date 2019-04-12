@@ -55,12 +55,13 @@ class Model:
         if gram in self.model:
             return self.model[gram] / self.numOfGrams
         else:
-            return .001 / self.numOfGrams
+            return 1 / self.numOfGrams
 
     # Function that takes in some text and calculates the chance that it's the same language as this model
     # WARNING: Has not been tested yet!!!!
     def realChanceCalculationThing(self, text):
         chance = 1
+        print(text)
         for i in range(len(text) - (self.gramLength - 1)):
             gram = ""
             for j in range(self.gramLength):

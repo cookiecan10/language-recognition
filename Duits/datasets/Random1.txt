@@ -1,0 +1,783 @@
+Vorrede.
+
+Den Vorwurf, der meinen Uebersetzungen aus dem Mittelhochdeutschen, der
+Nibelungen namentlich, gemacht worden ist, als hätten sie den
+Originalen Abbruch gethan, könnte ich mir schon gefallen laßen, denn
+sie müsten sie, wenn er begründet sein sollte, übertroffen haben.
+Leider vermag das keine Uebersetzung, und so werde ich mich statt jenes
+schmeichelhaften Tadels mit dem bescheidenen Lobe begnügen müßen,
+Unzählige, und vielleicht den Ankläger selbst, den Originalen zugeführt
+zu haben. Daß dieß Uebersetzungen, und zwar besonders solche thun, die
+Zeile für Zeile, gleichsam Wort für Wort übertragen, ist Goethes
+Ausspruch, auf den ich mich schon im Freidank S. XIII. berufen durfte.
+"Sie erregen," sagt der Altmeister, "eine unwiderstehliche Sehnsucht
+nach dem Original." Weil aber immer etwas hangen bleibt, will ich, die
+Anklage ganz aus dem Felde zu schlagen, diese Sehnsucht zu befriedigen
+helfen, indem ich das Original neben die Uebersetzung stelle.
+
+Ueber den Schaden, welchen Uebersetzungen anrichten könnten, (seht was
+ein storch den foeten schade, noch minre schaden hânt si mîn), habe ich
+mich in der Vorrede zur 1. Aufl. mit stärkern Worten ausgesprochen als
+ich es hier nach dem Spruche de mortuis nil nisi bene dürfte. Ich laße
+aber diese frühe Vorrede auch aus andern Gründen wieder abdrucken, muß
+indes bemerken, daß ich jetzt nicht mehr drei, sondern vier Hebungen im
+ersten Halbvers annehme. Ferner laß ich, weil darin zweier in der
+"Einleitung" mitgetheilter Gedichte und einer "Weihe" gedacht ist, auch
+diese folgen; ja vielleicht wird es mir nicht verdacht, wenn ich auch
+die Erwiederung Fouqués, an welchen jene "Weihe" gerichtet war, aus dem
+Gesellschafter, 1827 Nr. 85 (28. Mai) einrücke.
+
+Um das Auge nicht zu beleidigen, geb ich Urschrift und Uebersetzung mit
+der gleichen Schrift, die mir, nachdem einige Zeichen hinzugekommen
+sind, auch für das Mittelhochdeutsche die geeignete scheint. Das
+Neuhochdeutsche anlangend, so hat Jacob Grimm, der sich in einem Briefe
+an F. Pfeiffer beschwert, daß er nicht einmal das ß, wo es organisch
+ist, durchzusetzen vermocht habe, dieß durch den Gebrauch der runden
+Schrift, die man ausschließlich lateinisch zu nennen pflegt, als ob die
+eckige nicht den gleichen Ursprung hätte, selber verwirkt, denn diese
+Schrift hat kein ß, und nicht Jeder ist in der Lage, sich eins
+schnitzen zu laßen, ja er selber war es nicht immer. Sie hat eigentlich
+auch kein k und verführte J. Grimm selbst zu der ungeheuerlichen
+Schreibung Cöln, was Zöln gesprochen werden müste, vergl. Cölibat, und
+also die Kölner, die sich ihrer bedienen, zu Zölnern und Sündern wider
+die deutsche Lautlehre macht. Für das Mittelhochdeutsche hat sie erst
+Beneke und in den Nibelungen Lachmann durchgesetzt; jedoch hat Lachmann
+die Prachtausgabe seiner Zwanzig Lieder mit eigens dazu gegoßenen
+wunderschönen eckigen s.g. deutschen Lettern drucken laßen. Ich selbst
+habe sowohl im _Lesebuch_ als im _Wartburgkrieg_ zu der s.g.
+lateinischen greifen müßen, weil es da der Mühe nicht lohnte, für die
+Umlaute des langen a und o sowie für das weichere z, das wir ß nennen
+und schreiben, eigene Zeichen (æ und oe und z) schnitzen und gießen zu
+laßen, wie das hier geschehen konnte.
+
+Die Nebeneinanderstellung von Text und Original nöthigte zu genauerm
+Anschluß an das Original, das aber erst redigiert werden muste, denn
+ich konnte keiner der drei Faßungen (Recensionen), in denen das Gedicht
+vorliegt, ausschließlich vertrauen: keine bewahrt allein das Echte, ja
+in keiner sind alle Strophen vereinigt, durch deren Verbindung Original
+und Uebersetzung nun einige hundert Strophen mehr zählen als die
+Handschrift A, deren Text ich zwar zu Grunde legte, von dem ich aber
+unzählige Mal abgewichen bin, manchmal vielleicht ohne Noth, aber
+schwerlich je ohne Grund. Nur in gleichgültigen Fällen hab ich den Text
+vorgezogen, der sich am wohllautendsten übertragen ließ. So ist
+allerdings mein Text kein kritischer; aber er wird dem endgültig durch
+die Kritik herzustellenden in den meisten Fällen vorgearbeitet haben.
+
+Die bisherigen kritischen Ausgaben haben sich Einer der drei Faßungen
+des Textes, welche man mit A, B und C zu bezeichnen pflegt, näher
+angeschloßen: die von der Hagensche von 1826 hielt sich an B (St.
+Galler Handschrift), die Lachmannsche an A, die Holtzmannsche und
+Zarnckesche an C, und indem Jeder die seinige für die echte und
+alleinseligmachende erklärte, erwarben sie sich das große Verdienst,
+uns von jeder dieser drei Faßungen ein zuverläßiges und anschauliches
+Bild vor Augen gestellt, und so der Ermittelung des ursprünglichen
+allen dreien zu Grunde liegenden Textes Vorschub geleistet zu haben.
+Einen Anfang zu solcher Kritik hat Bartsch (Untersuchungen über das
+Nibelungenlied, 1865) gemacht; aber seine Ausgabe, die zu B
+zurückgekehrt ist, benutzt die gewonnenen Ergebnisse nur theilweise.
+Der Text des ersten Dichters, der die vorhandenen Lieder mit Hülfe des
+lateinischen Nibelungenliedes Konrad des Schreibers zu einem Ganzen
+verband, wird zwar schwerlich jemals hergestellt werden können, denn
+das Gedicht scheint seitdem mehrfache Ueberarbeitungen erfahren zu
+haben, theils um die Sprache zu verjüngen, theils um Versbau und Reim
+mit den Ansprüchen der neuern Zeit in Uebereinstimmung zu bringen;
+offenbar sind auch große Theile des Gedichts aus der knappen Weise des
+Volkslieds, die sich z.B. in Lachmanns viertem Liede zeigt, von höfisch
+gebildeten Volkssängern in die reichere, glänzendere und gefühlvollere
+Darstellung, die wir an den Rüdigern betreffenden Abenteuern bewundern,
+umgebildet worden, wenn dieß nicht schon, wie Wackernagel (Sechs
+Bruchstücke 1866, S. 30 ff.) annimmt, an den Liedern selbst, vor ihrer
+Aufnahme in das Gedicht, geschehen war: wir müßen ihm aber so nahe zu
+kommen suchen als möglich.
+
+Daß die strophische Eintheilung schon dem _ersten_ Dichter des Ganzen
+vorschwebte, scheint mir keineswegs außer allen Zweifel gestellt, viel
+weniger, daß sie auch schon in den Liedern, welche er benutzen konnte,
+durchgesetzt war: darum kann ich die Forderung, daß der Sinn nicht aus
+einer Strophe in die andere übergehen solle, nicht für haltbar ansehen,
+während Mittelreime, ein anderes Lachmannsches Kennzeichen unechter
+Strophen, sich schon in den ältesten der Nibelungenstrophe verwandten
+Liedern finden, und sich auch Jedem, der in dieser Strophe zu dichten
+versucht, von selber aufdrängen. Das neuere Hildebrandslied, Uhland
+330, hat dagegen nicht einen einzigen Mittelreim; die aus B
+eingeschaltete Warnung vor einer Art Pulververschwörung (28. Abenteuer)
+gleichfalls keine und das Abenteuer mit Gelfrat und Else (Str.
+1561-1566), das ein ebenso müßiger Einschub ist, hat nur einen, während
+Sie in ältern und echten Theilen nicht gar selten sind, wo freilich
+Lachmann die ungenauern übersieht, und die, welche nur auf eine Hebung
+reimen, gar nicht in Anschlag bringt. Ich denke mir hiernach den
+Hergang wie folgt. Zuerst waren nur einzelne Lieder vorhanden, wie wir
+in der Edda die ganze Heldensage in Liedern dargestellt finden, die ich
+für Uebersetzungen deutscher halte, freilich sehr unvollkommen durch
+das Gedächtniss überliefert. Diese Lieder waren in alliterierenden
+Langzeilen verfaßt, wie uns davon im Hildebrandslied ein Beispiel
+vorliegt. Zugleich waren sie vom heidnischen Geist erfüllt, so daß z.B.
+der Drachenkampf, Brunhildens Versenkung in den Todesschlaf und
+Wiedererweckung durch Siegfried, der durch die Webelohe ritt, und
+manches Andere, christlichen Zuhörern nicht wohl mehr ausführlich
+vorgetragen werden konnte, von der Blutrache abgesehen, von der wir
+nicht wißen wie frühe sie der christliche Geist in Gattenrache
+gemildert habe. Dieses seines heidnischen Inhalts wegen muste das
+deutsche Epos so gut als das brittische bei Galfred von Monmouth, das
+fränkische bei Pseudoturpin einmal, um von den gröbsten Paganismen
+gereinigt zu werden, durch das Mönchslatein hindurchgehen, wie es
+selbst der Thiersage nicht erlaßen ward, und wie uns dafür im
+Waltharius, im Rudlieb die Beispiele, im lateinischen Nibelungenlied
+des Schreibers Konrad die Beweise vorliegen.
+
+Dieses lateinische Nibelungenlied, denn ein Lied darf es seines, unserm
+Liede entsprechenden Inhalts wegen heißen, wenn es auch in Prosa
+verfaßt war, ward auf Befehl Bischof Pilgrims, der zwischen 970-991
+Bischof von Paßau war, also unter den ersten sächsischen Kaisern, wo
+die lateinische Klosterdichtung in der Blüthe stand, geschrieben, bald
+nach dem Waltharius, den Eckehart I. (+ 973) dichtete, und Eckehart IV.
+(+ 1036) auf Befehl Bischof Aribos von Mainz (1021-1031) durchsah und
+metrisch verbeßerte. Wir fanden hier schon zwei Bischöfe, die sich der
+deutschen Heldensage annahmen; ein dritter war Erkenbald, Bischof von
+Straßburg (951-991), welchem Gerald den Waltharius, an dem er irgendwie
+betheiligt war, mit einer lateinischen Widmung übersandte (Lat. Ged.
+von Grimm und Schmeller, S. 61); der vierte, aber leider der letzte,
+war Erzbischof Siegfried von Mainz (1060-1081): ihm ward es schon zum
+Vorwurf gemacht, daß ihm die deutsche Heldensage noch in Sinn und
+Gemüth lag, indem er lieber die Lieder von Etzel und den Amelungen
+singen, als den Augustinus und Gregorius vorlesen hörte. Dieß, wenn ich
+nicht irre, von Holtzmann selbst zuerst beigebrachte Zeugniss lehrt,
+daß die lateinische Klosterdichtung, die sich so gern mit volksmäßigen
+oder, was gleichbedeutend ist, deutschen Gegenständen, Heldensagen,
+Thiersagen und Volksmärchen beschäftigte, in der sächsischen Zeit noch
+von den höchsten Prälaten begünstigt werden durfte, während es ihnen in
+der salischen, wo die Geistlichkeit wieder in deutscher Sprache
+biblische, namentlich alttestamentliche Gegenstände, und zwar mit
+größerer Inbrunst als in der Otfridischen Zeit, behandelte, zum Vorwurf
+gereichte: denn eben jener Bischof Günther von Bamberg, der durch das
+Ezzolied bekannt ist, wird nach jenem Zeugnisse von Probst Herman
+ermahnt, nicht länger mit einem Manne so unchristlicher Gesinnung zu
+verkehren, wie ihm jener Erzbischof Siegfried von Mainz, seiner
+Vorliebe für die deutsche Heldensage wegen, zu sein schien.
+
+In der Blüthezeit der lateinischen Klosterdichtung, wo unter den
+Ottonen die Literatur in deutscher Sprache fast ganz verstummte, konnte
+wohl ein _lateinisches_ Nibelungenlied, und als ein solches wird es
+auch ausdrücklich bezeugt, aber schwerlich ein deutsches gedichtet,
+d.h. in jener Zeit von einem Geistlichen, wie Pilgrims Schreiber Konrad
+gewesen sein wird, niedergeschrieben werden. Daß es uns nicht erhalten
+blieb, dürfen wir bedauern; es ist aber schwerlich auf unser
+Nationalepos ohne Wirkung geblieben: dem Verfaßer des zweiten Theils,
+der ursprünglich den Namen der _Nibelunge nôt_ führte, scheint es
+vorgelegen zu haben, denn er entnimmt ihm den Namen des Bischofs
+Pilgrim, den wahrscheinlich schon sein Schreiber Konrad seinem Bericht
+eingefügt hatte. Aber auch dem Dichter des ersten Theils, der
+Siegfrieds Tod heißen könnte, hat es vorgelegen, ja ihm war es am
+nöthigsten, weil es ihn lehren konnte wie die Lücken seines Gedichts
+auszufüllen seien, die durch Ausscheidung der heidnischen Bestandtheile
+in der ersten Hälfte der Sage nothwendig entstehen musten. Neben der
+lateinischen Erzählung Konrads benutzten beide auch deutsche Lieder,
+jüngere und ältere; aber dem Dichter des zweiten Theils lag eine
+größere Fülle von Liedern vor, auch waren sie im Wachsthum wohl nicht
+so zurückgeblieben als die des ersten: im zwölften Jahrhundert war die
+Siegfriedssage, die am Rheine spielt, wo die Einflüße der welschen
+Dichtung auf die heimische Sage nachtheiliger wirkten, fast schon
+verblasst, während die Dietrichssage, die im zweiten Teil hervortritt,
+an der Donau und am Inn noch fortblühte, namentlich aber auch am Hofe
+zu Wien Gehör und Pflege fand.
+
+Die ersten neunzehn Abenteuer bilden den ersten Rheinischen Theil des
+Gedichts, das seine eigene Einleitung hat in den ersten zwölf Strophen,
+die auf den Inhalt des damals wohl schon vorhandenen zweiten Theils
+zwar gelegentlich (Str. l, 5, 6) schon Bezug nehmen, aber doch nur von
+dem Hofe zu Worms und den burgundischen Helden handeln. Noch
+entschiedener gehört der nun folgende _Traum Kriemhildens_ mit der
+Deutung der Mutter Str. 13-18 nur zu diesem ersten Theil; es ist aber
+ein Lied für sich, das der Dichter vorfand und einrückte. Keineswegs
+bildet es einen Bestandtheil des von Lachmann s. g. ersten Liedes,
+vielmehr ist es selber das erste und älteste von allen. Es gehört noch
+der Zeit an, wo Reim und Alliteration, wie im Liede von der Samariterin
+(Lesebuch 35) und noch bei Otfried, nebeneinander zum Schmuck verwendet
+wurden. Sein hohes Alter beweist auch, daß der eddische Mythus von
+Odin, der als Falke von Gunnlödh entfliegt und von Riesen in
+Adlersgestalt verfolgt wird (vergl. Havamal 104-110 und D 58), in
+diesem Traume Kriemhilds nachklingt. Das Bild des Falken für den
+Geliebten ist also uralt, und weit über die Grenzen Deutschland hinaus
+verbreitet gewesen. Vergl. MSF. S. 230. In der ältesten deutschen
+Lyrik, die sich aus dem Epos entwickelt hat, kehrt es bei Dietmar von
+Eist:
+
+Es stuont ein vrouwe aleine
+
+Lesebuch 58, und den dem Kürnberg zugeschriebenen Liedern zurück. Weil
+aber in letztern zu dem Bilde des Falken auch noch die Nibelungenstrophe
+kommt, für die kein älteres Zeugniss vorhanden ist, gerieth man auf den
+abenteuerlichen Einfall, den Kürnberg nicht etwa bloß für den Verfaßer
+unseres Liedes von Kriemhildens Traum, nein des ganzen Nibelungenliedes,
+auszugeben!
+
+Was wißen wir denn von Kürnberg? Nichts als daß er eine Weise erfunden
+hat.
+
+Ich stuont mir nehtint spâte an einer zinne. Lesebuch 52.
+
+Es ist eine Frau, die hier spricht, wie auch in dem verwandten Liede
+bei Dietmar von Eist, dessen soeben gedacht wurde. Auf der Zinne ihrer
+Burg stehend, hörte sie von einem Ritter ein Lied singen _in Kürnberges
+wise_. Wise kann zweierlei bedeuten, das Versmaß oder die Melodie; wir
+wißen also nicht einmal ob dieser Kürnberg der Dichter oder der
+Componist der Weise war, in der sie singen hörte, denn schon im
+Ezzoliede, Lesebuch 40, war das Amt des Dichters und Componisten
+geschieden:
+
+Ezzo begunde scriben, Wille vant die wîse.
+
+Eine Weise war nach Kürnberg benannt, die Weise in der jene Frau singen
+hörte, aber nicht, wie man annimmt, die Weise des Liedes, in welcher
+sie uns dieß berichtet, also nicht die Nibelungenstrophe noch die sie
+begleitende Melodie. Sie hörte ein Lied singen in Kürnbergs Weise; wie
+diese Weise lautete oder wie sie beschaffen war, ob eine Gesangweise
+oder ein Versmaß gemeint sei, erfahren wir nicht. Dem Kürnberg gehörte
+nur die Weise des Liedes, welches die Frau vor ihrer Burg singen hörte;
+ihm die Nibelungenstrophe zuzuschreiben, haben wir also nicht den
+entferntesten Grund: wie soll er denn nun gar das Nibelungenlied
+verfaßt haben?
+
+Man sagt, die Pariser Handschrift der Minnesänger schreibe dem Kürnberg
+die in der Nibelungenstrophe gedichteten ältesten Lieder zu: mithin
+habe dieser die bei ihm zuerst auftretende Nibelungenstrophe erfunden.
+Aber die Pariser Handschrift ordnet bekanntlich die Lieder nach
+Verfaßern und diese Verfaßer wieder nach Ständen, indem sie mit Kaiser
+Heinrich beginnt, hierauf Könige, Herzoge, Markgrafen, Grafen, Ritter
+folgen läßt und Zuletzt mit bürgerlichen Meistern schließt. Für
+Volkslieder, die keinen oder doch keinen namhaften Verfaßer haben,
+fehlte ihr eine Rubrik. Solche waren aber die dem von Kürnberg, und
+ohne bekannten Verfaßer auch die dem Spervogel zugeschriebenen Lieder
+und Sprüche. Mit welchem Leichtsinn der Sammler der Pariser
+Liederhandschrift sich aus der Sache zog, sehen wir an den Sprüchen,
+die er dem _Spervogel_ zuschreibt. Bekanntlich sind es zwei Weisen, in
+welchen die dem Spervogel zugewiesenen Sprüche gedichtet sind, eine
+größere und eine kleinere. In der größern, die voransteht, begegnet der
+Name Spervogel gleich in dem dritten Spruche: der Sammler, der um einen
+Namen verlegen war, griff ihn frisch heraus und setzte ihn über beide
+Spruchreihen, die jetzt Spervogel verfaßt zu haben schien, obgleich der
+dritte Spruch, in welchem er vorkam:
+
+swer suochet rât und volget des, der habe danc,
+alse min geselle _Spervogel_ sanc ic.
+
+deutlich besagte, daß nicht der Verfaßer, sondern einer seiner Freunde
+diesen Namen führte. Hätte er weiter lesen wollen und wäre bis zum 7.
+Spruche der II. Reihe gelangt, in welchem sich _Heriger_ als Verfaßer
+angiebt, so würde er wohl diesem, nicht dem Spervogel beide
+Spruchreihen zugeschrieben haben. Mich wundert, daß Haupt, der bei
+Kaiser Heinrichs Liedern auf das Zeugniss der Pariser Handschrift kein
+Gewicht legt und auch schon für _zweifelhaft_ hält, ob die dem Kürnberg
+zugeschriebenen Lieder ihm gehören, bei Spervogel, wo der Leichtsinn
+des Sammlers am Tage liegt, seinem Zeugniss vertrauen mag. Vergl. MSF.
+S. 238.
+
+Daß dem Dichter in jenem 7. Spruch das Alter nicht, wie Haupt meint,
+wegen fremder Entkräftung, vielmehr der eigenen wegen zuwider ist,
+zeigt die folgende Strophe, wo er es beklagt, nicht zum Bau eines
+Hauses griffen zu haben, als ihm zuerst der Bart entsprang, denn darum
+müße er jetzt, im Alter, "mit arbeiten ringen". Um zu zeigen, wie enge
+diese beiden Strophen zusammengehören und sich untereinander erläutern,
+setze ich die erste, worin der Name Heriger erscheint, hieher, weil da
+dem _gransprunge man_ eingeschärft wird, bei Zeiten für sichere
+Herberge zu sorgen.
+
+Mich müet das alter sêre,
+wan ez _Hergêre_
+alle sîne kraft benan.
+es sol der gransprunge man
+bedenken sich enzite,
+swenn er ze hove werde leit,
+daz er ze gewissen herbergen rite.
+
+Mit demselben Leichtsinn nun wie bei Spervogel geht der Sammler der
+Pariser Handschrift, die man auch die Manessische nennt, zu Werke,
+indem er dem Kürnberg eine kleine Sammlung volksmäßiger Lieder
+zuschreibt, bloß weil ihm die vierte Strophe den Namen Kürnberg darbot.
+Ich will nun die ganze Strophe hiehersetzen, und ihr die wahrscheinlich
+zu demselben Liede gehörigen Strophen folgen laßen.
+
+"Ich stuont mir nehtint spâte an einer zinne,
+dâ hôrt ich einen rîter vil wol singen
+in Kürenberges wîse al ûs der menigin.
+er muoz mir diu lant rûmen ald ich geniete mich sîn.'--
+
+"Nu brinc mir her vil balde mîn ros, mîn îsengewant,
+wan ich muos einer vrouwen rûmen diu lant.
+diu wil mich des betwingen daz ich ir holt si:
+si muoz der mîner minne immer darbende sin.
+
+Wîb unde vederspil die werdent lihte zam:
+swer si ze rehte lucket sô suochent si den man.
+als warb ein schoene rîter umb eine vrouwen guot;
+als ich dar an gedenke sô stêt wol hôhe mîn muot.'
+
+_Uebersetzung._
+
+"So spät noch stand ich gestern an einer Zinne,
+Da hört ich einen Ritter lieblich singen;
+In des Kürnbergs Weise es aus der Menge klang:
+Er muß das Land mir räumen, sonst leg ich ihn in meinen Zwang."--
+
+"Nun bringt mein Ross und bringt mir mein Eisengewand,
+Denn einer Frauen räumen muß ich dieses Land.
+Sie will mich zwingen, daß ich ihr gewogen sei:
+Sie bleibt meiner Minne immer ledig und frei.
+
+Ein Weib und ein Federspiel, die werden leichtlich zahm:
+Wer sie nur weiß zu locken, so suchen sie den Mann.
+So warb ein schöner Ritter um eine Fraue gut;
+Wenn ich daran gedenke so trag ich hoch meinen Muth."
+
+In der ersten Strophe hört die fürstliche Frau, die gegen Abend an der
+Zinne ihrer Burg steht, einen Ritter aus der davor versammelten Menge
+ein Lied singen in der Weise Kürnbergs. Diese mag damals sehr bekannt
+gewesen sein, jetzt weiß Niemand mehr von ihr. Die Stimme des Ritters,
+ja der Ritter selbst, gefällt aber der Fürstin so sehr, daß sie auf ihn
+zu fahnden beschließt: ihm soll nur die Wahl bleiben, ihr Geliebter zu
+werden oder ihr das Land zu räumen.
+
+Die zweite Strophe, denn das Gedicht ist ein "Wechsel", sehen wir nun
+dem Ritter in den Mund gelegt, der seinem Knappen befiehlt, ihm Ross
+und Rüstung herbeizubringen, denn er müße einer Frau das Land räumen,
+die ihn zwingen wolle, ihr hold zu sein: er möge aber ihr Geliebter
+nicht werden. Man sieht, diese zweite Strophe schließt sich genau an
+die erste, obgleich sie in der Handschrift weit von ihr entfernt steht.
+
+Die dritte, welche in der Handschrift den Schluß der fünfzehn Strophen
+begreifenden kleinen Liedersammlung bildet, setze ich nach Vermuthung
+an den Schluß unseres Liedes. Der Ritter fährt fort zu singen: wir
+hören wieder das uns schon aus Kriemhildens Traum bekannte Gleichniss
+von dem Falken, mit dem aber hier die Frau, nicht der Mann verglichen
+wird: "Frauen und Federspiel sind leicht zu zähmen, wenn man sie nur zu
+locken versteht." So hat Er es verstanden, und das verleiht ihm hohen
+Muth, daß er gewust hat, sich jene fürstliche Frau geneigt zu machen,
+von der er sich jedoch nicht feßeln zu laßen gedenkt.
+
+Noch ein andermal hören wir in den s.g. Kürnbergschen Liedern jenes
+erste Lied von Kriemhilds Traum nachklingen. Man könnte zur Noth an
+dasselbe Liebesverhältniss denken. Das Lied besteht wieder aus drei
+Strophen, die dießmal auch in der Handschrift beisammen stehen. Die
+Frau ist es wieder, die spricht; sie klagt um den entschwundenen
+Geliebten:
+
+"Es hat mir an dem herzen vil dicke wê getân,
+daz mich des geluste des ich niht mohte hân
+noch niemer mac gewinnen: daz ist schedelich;
+jone mein ich golt noch silber, es ist den liuten gelîch.
+
+Ich zôch mir einen valken, mêre danne ein jâr:
+dô ich in gezamete als ich in wolte hân,
+und ich im sîn gevidere mit golde wol bewant,
+er huop sich ûs vil hohe und vloug in anderin lant.
+
+Sit sach ich den valken schône vliegen,
+er vuorte an sînem vuoze sidine riemen
+und was im sîn gevidere alrôt guldin.
+Got sende si zesamene die geliep weln gerne sin.'
+
+_Uebersetzung._
+
+"Es hat mir an dem Herzen gar manchmal weh gethan,
+Daß mich des gelüstete was mir nicht werden kann
+Und was ich nie gewinne: der Schade der ist groß;
+Nicht mein' ich Gold noch Silber, von den Leuten red ich bloß.
+
+Ich zog mir einen Falken länger als ein Jahr;
+Als er nun gezähmt war nach meinem Willen gar,
+Und ich ihm sein Gefieder mit Golde wohl bewand,
+Er hob sich auf gewaltig und flog in ein ander Land.
+
+Nun sah ich den Falken herrlich fliegen,
+Er führt an seinem Fuße seidene Riemen,
+Und strahlt' ihm sein Gefieder ganz von rothem Gold;
+Gott sende sie zusammen, die sich lieb sind und hold."
+
+In der ersten Strophe beklagt es die Frau, daß sie sich eines Dinges
+hat gelüsten laßen, das sie nicht haben konnte und vielleicht nie
+gewinnen mag. Das kann auf das Verhältniss zu jenem Ritter gehen:
+ausdrücklich fügt sie hinzu, sie denke dabei an Leute, nicht an Gold
+noch Silber.
+
+Das zweite Gesetz erwähnt wieder des Federspiels, indem sie mit dem
+entflogenen Falken den entschwundenen Geliebten meint. Das Verhältniss
+scheint aber hier, wenn es nicht ein anderes ist, vertrauter und
+inniger gedacht als wir es aus dem ersten Liede kennen lernten. Sie
+hatte den Falken sich nach Wunsch gezähmt, ja sein Gefieder mit Gold
+bewunden, wie König Oswald dem Raben, der an seinem Hofe erzogen war,
+die Flügel mit Gold beschlagen ließ ehe er ihn als Boten aussandte.
+
+Hier schließt sich das dritte Gesetz an, denn noch der flüchtige, in
+andere Lande entwichene Falke schleppte die alten Feßeln nach: er war
+"der freie Vogel nicht mehr, er hatte schon Jemand angehört". Seidene
+Riemen führt er am Fuße; sein Gefieder war noch von rothem Gold
+bewunden. Die Schlußzeile spricht den Wunsch nach Wiedervereinigung der
+Liebenden und somit ein größeres Vertrauen auf den Geliebten aus als
+das erste Lied und selbst der Anfang des zweiten erwarten ließ.
+
+Zur Vergleichung mag noch das erwähnte Lied Dietmars von Eist mit dem
+Bilde des Falken hier stehen:
+
+Es stuont eine vrouwe alleine
+und warte über heide
+und warte ir liebes,
+so gesach si valken vliegen:
+
+"Sô wol dir valke, daz du bist!
+du vliugest swar dir liep ist:
+du erkiusest in dem walde
+einen boum der dir gevalle.
+
+Alsô hân ouch ich getân:
+ich erkôs mir selbe einen man;
+den welten mîne ougen;
+daz nîdent schoene vrouwen.
+ouwê, wan lânt si mir mîn liep?
+jo engerte ich ir dekeiner trûtes niet.'
+
+_Uebersetzung._
+
+Es stand eine Frau alleine
+Und blickte über Haide,
+Und blickte nach dem Lieben,
+Da sah sie Falken fliegen.
+
+"So wohl dir, Falke, daß du bist!
+Du fliegst wohin dir lieb ist.
+Du suchst dir in dem Walde
+Einen Baum der dir gefalle.
+
+Also hab auch ich gethan:
+Ich ersah mir einen Mann,
+Den erwählten meine Augen;
+Das neiden andre Frauen.
+O weh, so laßt mir doch mein Lieb:
+Ich stellte ja nach euern Liebsten nie."
+
+Auch ein verwandtes altitalienisches Sonett hat Haupt beigebracht:
+
+Tapina me, che amava uno sparviero!
+  amava'l tanto ch'io me ne moria.
+  a lo richiamo ben m'era maniero,
+  ed unque troppo pascer no'l dovia.
+
+Or è montato e salito si altero,
+  assai più altero ehe far non solia,
+  ed è assiso dentro a un verziero
+  e un' altra donna l'averà in balia.
+
+Isparvier mio, com'io t'avea nodrito!
+  sonaglio d'oro ti facea portare,
+  perchè nell' uccellar fossi più ardito.
+
+Or sei salito siccome lo mare,
+  ed hai rotti li geti, e se' fuggito
+  quand eri fermo nel tuo uccellare.
+
+_Freie Nachbildung._
+
+Ich Arme, einen Sperber lieb zu haben!
+  So liebt ich ihn, daß Sehnsucht mich verzehrt.
+  An meinem Ruf schien sich sein Herz zu laben;
+  Oft hat er Kost aus meiner Hand begehrt.
+
+Nun stieg er auf so stolz und so erhaben,
+  Viel stolzer als er mir sich je bewährt.
+  In einen Garten flog er überm Graben
+  Und eine andre Herrin hält ihn werth.
+
+Wie reicht ich dir, mein Sperber, Leckerbißen!
+  Goldene Schellen gab ich dir zu tragen,
+  Dich freudiger zur Vogeljagd zu wißen.
+
+Nun flogst du hin und läßest mich verzagen:
+  Du hast die Bande frevelhaft zerrißen
+  Just da du meisterlich verstandst zu jagen.
+
+       *       *       *       *       *
+
+Die nahe Verwandtschaft der beiden angeblich Kürnbergschen Lieder mit
+dem von Kriemhildens Traum hat auf den Gedanken geführt, sie möchten
+alle drei demselben Dichter gehören. Ein sehr armer Dichter, der
+dreimal dasselbe Motiv gebrauchte! Sie können nicht einmal aus
+derselben Zeit herrühren: das von Kriemhilds Traum mag nach seinem an
+den Mythus anklingenden Inhalt wie nach der fast ganz alliterierenden
+Form leicht ein Jahrhundert älter sein.
+
+Weder der Dichter der beiden Lieder vom Falken noch der von Kriemhilds
+Traum kann die Nibelungenstrophe erfunden haben: nur die beiden ersten
+Gesetze von Kriemhilds Traum bewahren noch den alten Gliederbau dieser
+Strophe, und von den sechs ausgehobenen angeblich Kürnbergschen
+Gesetzen nur noch das erste und das letzte. Nach dieser ursprünglichen
+Gliederung finden wir in den Nibelungen noch eine Anzahl
+alterthümlicher Strophen gebildet, bei dem s.g. Kürnberg noch fünf;
+einige so gebaute haben sich auch in dem neuern Volkslied erhalten,
+z.B. das bekannte
+
+Die Brünnlein, die da fließen, die soll man trinken,
+Und wer einen lieben Buhlen hat, der soll ihm winken u.s.w.
+
+Nach ihr war nur die dritte Langzeile um eine Hebung gekürzt; die drei
+andern zeigten noch die vollen acht Hebungen der alten epischen, einst
+alliterierten Langzeile; nur fiel in den beiden ersten Zeilen, welche
+als Aufgesang anzusehen waren, die letzte Senkung aus und die beiden
+letzten Hebungen trugen den Reim, der also nur scheinbar klingend war,
+denn auf den spätern klingenden Reim fällt nur Eine Hebung, die zweite
+Sylbe ist unbetont. Solche zwei Hebungen tragende Reime waren: zinne:
+singen, vliegen: riemen, Kriemhilde: wilde, Uoten: guoten. In den
+Anfängen der alten Lieder, die stäts am festesten im Gedächtniss
+hafteten, hat sich die alte Gliederung am längsten erhalten, so in den
+beiden ersten Strophen des Liedes von Kriemhilds Traum, dann Strophe
+1362, wo ein Lied und zugleich ein Abenteuer anfängt.
+
+Dô Etzel sîne botschaft zúo dem Rine sándè,
+dô vlugen disiu mære von lándè ze lándè.
+
+ferner Nr. 1653, der Anfang des 16. Lachmannschen Liedes:
+
+die boten vür strichen  mit den m'ærèn,
+daz die Niblungen zuo den Hiunen wæren,
+
+endlich Nr. 1571, wo nach dem langen störenden Einschub von Gelfrat und
+Else das vierte Lachmannsche Lied wieder einsetzt:
+
+Dô die wegemüeden rúowè genâmèn
+unde si dem lande nu näher quâmen u. s. w.
+
+An andern Stellen mag die alte Structur durch die Schönheit der Strophe
+geschützt worden sein, wie in den beiden aufeinander folgenden Str.
+2132 und 2133.
+
+Der Schreiber der Handschrift A, der keinen Sinn mehr für die alte
+Metrik hatte, wie er denn auch zweisilbige stumpfe Wörter in die Cäsur
+setzte, die zwei Hebungen tragen soll, und der achten Halbzeile oft nur
+drei Hebungen giebt, nahm auch schon an vier Hebungen in der zweiten
+und vierten Halbzeile Anstoß und gleich in der ersten Strophe, wo er
+sie nicht verkennen konnte, glaubte er den Anfang umbilden zu müßen,
+was er sonst nicht gebraucht hätte; in der folgenden Strophe ließ er
+die scheinbar klingenden Reime bestehen, weil sich hier die genannten
+Halbzeilen auch zu drei Hebungen lesen ließen. Durch diese Umbildung
+aber geriethen die alten Schlußreime in die Cäsur:
+
+Es troumde Kriemhilde in tugenden der si phlac
+wie si einen valken wilde züge manegen tac,
+
+ein Beweis, daß Mittelreime dem Schreiber dieses Textes nicht anstößig
+waren, während Lachmann Kriemhilte und wilden schrieb, "um auch den
+Schein eines innern Reimes zu vermeiden". Was freilich 'in tugenden der
+si phlac' heißen soll ist nicht leicht zu sagen; wahrscheinlich sollte
+damit das
+
+in ir hohen eren
+
+des alten Liedes umschrieben werden, denn _in disen_ höhen êren lautete
+es wohl erst, als die zwölf Strophen der einem Theaterzettel ähnlichen
+Einleitung davor gerückt wurden.
+
+Daß auch viele nur auf Einer Hebung reimende Langzeilen des Aufgesangs
+vier Hebungen tragen, hab ich in meiner Schrift: _Die Nibelungenstrophe
+und ihr Ursprung_, Bonn 1858, auf die ich überhaupt hier verweisen muß,
+näher ausgeführt, und der aufmerksame Leser wird in der gegenwärtigen
+Ausgabe zahlreiche Belege dafür nicht übersehen; am auffallendsten ist,
+daß sogar Zusatzstrophen in C wie nach 1662 bei stumpfem Reim im
+Aufgesang vier Hebungen zeigen: sie sind ohne Zweifel alt und zu einer
+Zeit eingeschoben, wo man noch vier Hebungen an diesen Stellen
+erwartete.
+
+Es darf nicht irren, daß uns die Nibelungenstrophe zuerst in _Liedern_
+entgegentritt, ja daß sie eine lyrische Gliederung zeigt. Was zuerst
+letztere belangt, so würde, wenn die Gliederung ganz wegfiele, mithin
+auch die vierte Zeile wie in dem spätern Hildebrandston, nur drei
+Hebungen trüge, die Strophe in zwei gleiche Hälften auseinanderfallen.
+Strophische Behandlung der Langzeile finden wir aber schon in der Edda,
+also noch ehe der Reim an die Stelle der Alliteration trat. Die
+Verwendung zu Liedern aber darf nicht befremden, denn diese ältesten
+Lieder, z.B. die s.g. Kürnbergschen, zeigen noch epische Eingänge, sie
+gehören einer Zeit an, wo sich das Lied eben erst dem mütterlichen
+Schooß der Epik entwunden hatte: darum tritt sie, wie ich das
+Nibelungenstr. 82 näher ausgeführt habe, anfangs noch in epischen
+Formen auf, ja entnimmt ihren Inhalt, wie das Gleichniss von dem
+Falken, dem Epos.
+
+Wenn die Nibelungenstrophe keine ursprünglich lyrische war, oder der
+epische Volksgesang sich ihrer schon früh bemächtigt hatte, so durfte
+sich jeder Sänger ihrer bedienen, und der spätere Gebrauch der
+Minnesinger, jedem Liede eigenes Maß und eigene Weise zu widmen, deren
+Entleihung dann für unerlaubt galt, konnte auf sie noch keine Anwendung
+finden.
+
+Diesen Einwand haben sich diejenigen schon selbst gemacht, die der
+Nibelungenstrophe, wie sie in der Pariser Handschrift zuerst erscheint,
+in Kürnberg einen Erfinder entdeckt haben wollen, dem sie dann mit
+überhöfischer Milde auch noch das ganze Nibelungenlied zum Geschenk
+machen, einem modernen Lyriker unser tausendjähriges Nationalepos.
+
+Sie setzen aber diesem Einwand entgegen: wenn die Nibelungenstrophe,
+die sie ohne Grund Kürnbergs Weise nennen, eine alte Volksweise
+gewesen, so würden andere Dichter sich nicht gescheut haben sie
+anzuwenden; sie hätten nicht Variationen dieser Strophe erfunden, sie
+nicht mit kleinen Modificationen umgebildet: "denn ein geringer
+Unterschied," sagt Bartsch, "brauchte nur da zu sein, um eine
+Strophenform neben einer schon vorhandenen als neu erscheinen zu
+laßen." Demnach wäre denn die Strophe, deren ursprüngliche Gliederung
+wir soeben besprochen haben, von dem erträumten Kürnberg so umgebildet,
+daß sie bald die ursprüngliche Gliederung behalten, bald wieder in den
+zweiten Vershälften des Aufgesangs nur drei Hebungen, oder gar in der
+ersten Zeile des Aufgesangs vier, in der zweiten drei tragen durfte;
+und der Dichter des Wolfdietrich und schon der Schreiber der
+Nibelungenhandschrift A hätte sie so umgebildet, daß es erlaubt war,
+der achten Halbzeile bald drei, bald vier Hebungen zu geben. Hatten
+aber wirklich diese und andere Umbildungen der Nibelungenstrophe den
+angegebenen Grund, daß man kein "Tönedieb" heißen wollte, so müste man
+ja glauben, der vorgebliche Kürnberg hätte selber gefürchtet an sich
+zum Dieb zu werden durch Anwendung der selbsterfundenen Strophe, da wir
+ja auch bei ihm eine Variation derselben finden, und zwar nach
+Bartschens eigener Aufstellung (Deutsche Liederdichter S. 1) eine durch
+zwei Strophen belegte Variation.
+
+Für uns, die wir als Grundlage beider Theile des Nibelungenliedes,
+neben der lateinischen Faßung Konrad des Schreibers, deren Einwirkung
+nicht geläugnet werden kann, eine Sammlung er Volkslieder in der
+gemeinsamen alten, aber sich allmählich umbildenden Volksweise
+annehmen, deren Näthe hier und da noch deutlich zu erkennen sind, uns
+fehlt es an Beispielen unveränderter Anwendung der Nibelungenstrophe
+bei verschiedenen Dichtern nicht. Der einzige Unterschied, der sich
+hervorthut, ist in demselben Liede die ungleiche Zahl der Hebungen in
+den Zeilen des Aufgesangs, und die Freiheit hier mit Auslaßung der
+Senkung auf zwei Hebungen zu reimen, was sich in den beiden Zeilen des
+Abgesangs niemals ereignen kann. Diese Unterschiede sind aber
+unwesentlich, da die ganze Strophe sich aus Sangzeilen von acht
+Hebungen hervorgebildet hat, die schon, als sie noch alliterierten, um
+eine Hebung gekürzt werden durften. Vergl. Nibelungenstrophe §.9.
+
+Soll der Dichter des Nibelungenlieds alte epische Lieder nicht
+eingeflochten, soll er nur aus der vielgestaltigen Sage geschöpft, und
+die Lieder, die er etwa schon vorfand, in ein neues Maß umgegoßen
+haben, warum nannte er dann seinen Namen nicht, warum trat er
+bescheiden hinter seinen Quellen zurück? da er doch bei solcher Annahme
+ein größerer Dichter gewesen wäre als Wolfram. Will man vergeßen, indem
+man den Kürnberg als den Dichter der Nibelungen ausruft, daß es den
+Gedichten des volksmäßigen Sagekreises eigenthümlich ist, im Gegensatz
+zu der von Veldeke geimpften höfischen Dichtung, keinen Verfaßer zu
+haben? Wen will man nächstens für den Dichter der Gudrun ausgeben, der
+noch nicht einmal in allen Theilen Lieder zu Grunde liegen, wer soll
+den großen Rosengarten, den Ortnit, den Wolfdietrich, den Alphart
+gedichtet haben, und wer das deutsche Waltherslied, aus der die
+Eckeharte schöpften? Soll dabei mit derselben Freigebigkeit verfahren
+werden, womit man das Nibelungenlied an den von Kürnberg verschenkte,
+so werden sich ja wohl Namen finden, die uns ebenso leere Schälle sind.
+Könnte nicht Spervogel die Gudrun gedichtet haben?--Wen hat man nicht
+schon für den Dichter des Nibelungenliedes ausgegeben? Heinrich von
+Ofterdingen, von dem ich im "Wartburtkrieg" erwiesen habe, daß er
+keineswegs eine fabelhafte Person war, indem er die echten Strophen des
+Räthselspiels verfaßt hat, die den zweiten Theil dieses selbst lange
+Zeit unenträthselten Gedichtes bilden, dann seinen Beschützer, den
+allerdings fabelhaften Klingsor von Ungerland, der aber nicht aus
+Ungerland, sondern aus dem Parzival kam, Konrad von Würzburg, Rudolf
+von Ems, für den zwei Hohenemser Handschriften angeführt werden
+könnten, Walther von der Vogelweide, und endlich den vielleicht wieder
+erdichteten Kürnberg, für dessen Dasein als Dichter oder Componisten
+wir nur das schwache Zeugniss eines Liedes haben. Johannes von Müller
+rieth auf einen schweizerischen Eschenbach von Unspunnen; warum Niemand
+auf den baierischen Wolfram, der unter allen höfischen Dichtern dem
+heimischen Sagenkreise am vertrautesten war, dem er seinen Friedebrand
+von Schotten, seinen Hüteger, seine Hernant und Herlinde und andere
+Helden der Nordseesage entnahm, dessen Reim und Sprache deutsch-epische
+Färbung zeigt, der die deutsche Alliteration auf die welsche
+Namengebung anwandte, der so oft auf die Heldensage und zweimal sogar
+auf einzelne Strophen des Nibelungenlieds (1408 5-8 und 1462) anspielt,
+und der vielleicht wirklich einmal die Hand an das Gedicht gelegt hat,
+nur gewiss nicht die letzte Hand, denn diese merzte gewisse Wolfram
+eigenthümliche Reime sorgfältig aus.
+
+Soll ich mich über das ABC der Handschriften erklären, so gestehe ich A
+den Vorzug zu, denn obwohl der Schreiber dieser kürzesten Handschrift
+überaus nachläßig war, so gab er doch seine alte und gute Vortage
+getreulich wieder ohne sich andere Aenderungen als seiner, eine jüngere
+Zeit verrathenden metrischen Irrthümer wegen zu gestatten; höchstens
+kommen einige schwache Zusatzstrophen wie Str. 3 auf seine Rechnung,
+während C, auf der ältesten und sorgfältigsten Handschrift ruhend, und
+gleichfalls von einer trefflichen Vorlage ausgehend dem volksmäßigen
+Gedicht einen feinern höfischen Schliff zu verleihen sucht. Doch sind
+viele Aenderungen in C wahre Verbeßerungen, wie auch das eine ist, daß
+wir das ganze Gedicht nun das _Nibelungenlied_ genannt finden, da der
+Name der _Nibelunge nôt_ nur auf den zweiten Theil bezogen werden
+konnte, zumal die Burgunden im ersten Theil noch nicht Nibelungen
+heißen. Von den Strophen, die C allein hat, ist ein Theil echt und alt
+und der Ueberarbeiter wird sie schon in seiner Vorlage gefunden haben:
+auf Str. 1518 scheint schon Wolfram anzuspielen. Andere sind sehr
+schwach und eine, nach Str. 2305, konnte ich mich nicht entschließen
+aufzunehmen, weil sie mir das ganze Gedicht verleidet hätte. Sie mag
+indes, damit man nichts vermisse, hier stehen, doch ohne Uebersetzung,
+deren ich sie nicht würdig halte.
+
+H. 2428.   Er wiste wol diu mære,   sine liez in niht genesen.
+           wie möhte ein untriuwe   immer sterker wesen?
+           er vorhte, sô si hête    im sînen lip genomen,
+           daz si danne ir bruoder  liese heim ze lande komen.
+
+Wie wir Hagens Charakter kennen, hätte er seinem Herrn Leben und
+Freiheit gern durch den eigenen Tod erkauft, und hier soll er den Hort
+nicht gezeigt haben, weil er fürchtete, Gunther würde dann allein in
+die Heimat entlaßen werden!
+
+B enthält die schwachen Strophen nicht, welche A und C hinzufügen,
+entbehrt aber auch die echten und guten, die allein C erhalten hat; für
+die, welche B selber hinzuthut, müßen wir ihm dankbar sein. Der
+sorgfältige Schreiber der in dieser Reihe voranstehenden St. Galler
+Handschrift füllt gerne die Senkungen aus und meidet verkürzte Formen.
+Sonst stellt sich diese sehr verbreitete Faßung, deren Text man deshalb
+den _gemeinen_ genannt hat, zunächst neben A und berichtigt sie oft.
+
+       *       *       *       *       *
+
+Eine geschichtliche Grundlage des Gedichts hat man in der Thatsache
+finden wollen, daß um das Jahr 437 der Burgunderkönig Gundicarius mit
+seinem Volke von den Hunnen eine vernichtende Niederlage erlitt. Man
+beruft sich auch darauf, daß in der lex Burgundionum drei burgundische
+Könige, Godomer, Gislahar und Gundahar wie es scheint als Söhne Gibicas
+genannt werden, die man in Gernot, Giselher und Gunther, nach der
+Heldensage den Söhnen Gibichs (in den Nibelungen heißt der Vater
+Dankrat), wiederfinden will. Vergl. W. Grimms Deutsche Heldensage, 2.
+Auflage 1867 S. 12. Aber wann die geschichtlichen Beziehungen in die
+Sage eingetreten find, wißen wir nicht: sie drangen gelegentlich in die
+ursprünglich mythische Heldensage, wurden aber auch wohl wieder
+ausgeschieden, wie wir davon ein Beispiel an Otacher haben, der, ein
+geschichtlicher Held, im Hildebrandslied den mythischen Sibich
+verdrängt hatte, ihm aber späterhin wieder weichen muste. Manche
+Thatsachen, die Geschichte und Heldensage gemein haben, können ebenso
+gut auch aus der Sage in die Geschichte gedrungen sein, z. B. was
+Jornandes von Ermenrich und Swanhildens Brüdern meldet, Grimms
+Heldensage S.2.
+
+Daß Worms im Liede als Sitz der Burgundenkönige erscheint hat man als
+der Geschichte nicht widersprechend nachgewiesen, indem wirklich die
+später an den Rotten (Rhodanus) gezogenen Burgunden zuerst am
+Mittelrhein gewohnt hätten. Eine andere Frage ist, ob dieß veranlaßt
+hat, Worms zum Schauplatz der Sage zu machen. Ein mythischer Bezug
+hängt nämlich schon in dem ältesten Namen dieser Stadt, und dieß könnte
+die Anknüpfung der Heldensage vermittelt haben. Bekanntlich lautete er
+einst Borbetomagus. "Da magus Feld bedeutet," hieß es schon Rheinland
+76, "so ist dieß nicht sowohl der Name der Stadt als des Gaus, das wir
+auch Wormsfeld genannt finden, wie Maifeld und Maiengau wechseln. In
+_Borbet_, das uns für den Namen der Stadt übrig bleibt, ist das
+anlautende b später zu w geworden;" wir werden aber sogleich sehen wie
+w und b mundartlich wechseln. Nehmen wir es indes für Worbet, so
+erkennen wir leicht den urkundlich vielfach beglaubigten Namen einer
+der tria fata, die, deutschem und keltischem Glauben gemein, uns
+(Deutschen) Schwestern, den romanisierten Kelten Mütter oder Matronen
+hießen; ausführlich habe ich von ihnen Handbuch der Mythologie §. 103
+gehandelt. Im südlichen und nordwestlichen Deutschland, also in unserm
+Rheinland kehren diese Schwestern unzählig oft wieder: sie werden noch
+jetzt zum Theil mit veränderten Namen als Heilige verehrt: in der
+kölnischen Diöcese mit dem Erzbischof Pilgrim (nicht dem Paßauer) unter
+dem Namen der drei christlichen Cardinaltugenden Spes, Fides, Caritas;
+in der trierischen zu Bornhoven, zu Auw unter verschiedenen; im
+südlichen Deutschland in weit entlegenen Landestheilen, Tyrol, Worms
+und Straßburg, in Oberbaiern und Niederbaiern unter sich stäts gleich
+bleibenden, nur wenig abweichenden Namen, welche sich auf _Einbett_,
+_Wilbett_ und _Warbett_ zurückführen laßen. Das gemeinsame _-bett_
+kehrt auch sonst gern wieder, wo die drei Schwestern jetzt unter andern
+Namen verehrt werden, und selbst in der kölnischen Diöcese ist das z.B.
+in Bettenhoven der Fall, so daß selbst unseres Beethovens Name hieher
+gehören möchte. Nach Panzer, Baierische Sagen, verehrt man sie als
