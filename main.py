@@ -101,7 +101,7 @@ def combineModels(m1, m2):
 if __name__ == "__main__":
 
     createDirs() # Create all the directories if they don't exist yet
-
+    ultimateModels = []
     for language in languages:
 
         for filename in os.listdir(os.path.join(language, datasetDir)):
@@ -127,5 +127,7 @@ if __name__ == "__main__":
         ultimateModel = dict()
         for m in models:
             ultimateModel = combineModels(ultimateModel,m)
-        print("Ultimate Model: ")
+        print("Ultimate Model ({}): ".format(language))
         print(ultimateModel)
+        ultimateModels.append(ultimateModel)
+
