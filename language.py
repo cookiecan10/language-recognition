@@ -131,7 +131,9 @@ class Language:
 
     # TODO Function that makes and saves a model for every dataset item
 
-    # TODO Function: go through every model in the model file, and add it to the ulti-model (or load ultimodel if exist)
+    # TODO Function: go through every model in the model file, and add it to the ulti-model.
+
+    # TODO Function that checks if an ulti-model already exists or not
 
     # TODO Function that returns a chance (using ulti-models and such)
 
