@@ -84,7 +84,7 @@ class Language:
         self.tri_grams = []
 
         self.ultiBi_gram = Model(2)
-        self.UltiTri_gram = Model(3)
+        self.ultiTri_gram = Model(3)
 
     # Check if the directory has been created yet, if not, will create it
     def makeDir(self, *args):
@@ -140,13 +140,39 @@ class Language:
         
         m = Model(length)
         
-        m.addTextAsGrams("text")
+        m.addTextAsGrams(text)
         return m
-        
+    
 
     # TODO Function: go through every model in the model file, and add it to the ulti-model.
-    
+    def makeUltimodels(self):
+        for filename in os.listdir(os.path.join(self.language, self.datasetDir)):
+            text = self.readText(os.path.join(self.language, self.datasetDir, filename))
+
+            text = self.prepare(text)
+            
+            self.ultiBi_gram.addTextAsGrams(text)
+            self.ultiTri_gram.addTextAsGrams(text)
+        
     # TODO Function that checks if an ulti-model already exists or not
 
+    # Saving ultimodels
+    def saveUltiModels(self):
+        self.saveModel(self.ultiBi_gram, os.path.join(self.language, "bi_gram"))
+        self.saveModel(self.ultiTri_gram, os.path.join(self.language, "tri_gram"))
+
+    def loadUltiModels(self):
+        self.ultiBi_gram = self.loadModel(os.path.join(self.language,"bi_gram"))
+        self.ultiTr_gram = self.loadModel(os.path.join(self.language,"tri_gram"))
+    
     # TODO Function that returns a chance (using ulti-models and such)
+    def calcBiChance(self, text):
+        chance = 1
+        chance *= self.ultiBi_gram.realChanceCalculationThing(text)
+        return chance
+
+    def calcTriChance(self, text):
+        chance = 1
+        chance *= self.ultiTri_gram.realChanceCalculationThing(text)
+        return chance
 
