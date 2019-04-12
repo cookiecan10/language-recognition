@@ -42,7 +42,7 @@ class Model:
     # combines model into this model
     def combineModel(self, m2):
         self.numOfGrams += m2.numOfGrams
-        for gram, count in m2.items():
+        for gram, count in m2.model.items():
 
             if gram in self.model:
                 self.model[gram] += count
@@ -124,15 +124,28 @@ class Language:
         text = ""
         with open(os.path.join(filename), 'r') as fp:
             for line in fp.readlines():
-                text += line
+                text += line.strip("\n")
         return text
 
-    # TODO Function function that prepares a piece of text for grammification
-
+    # TODO take out all numbers
+    # function that prepares a piece of text for grammification
+    def prepare(self, text):
+        return text.replace("\n","").replace("  ", " ").replace("'","").replace("(","").replace(")","")
+    
     # TODO Function that makes and saves a model for every dataset item
+    def makeModel(self, filename, length=2):
+        
+        text = self.readText(filename)
+        text = self.prepare(text)
+        
+        m = Model(length)
+        
+        m.addTextAsGrams("text")
+        return m
+        
 
     # TODO Function: go through every model in the model file, and add it to the ulti-model.
-
+    
     # TODO Function that checks if an ulti-model already exists or not
 
     # TODO Function that returns a chance (using ulti-models and such)

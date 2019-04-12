@@ -50,7 +50,6 @@ def n_gram(text, gramLength):
     return d
 
 # A function that can count up the total number of n-grams in a model
-
 def gramCounter(model):
     totalGrams = 0
     for key, value in model.items():
@@ -63,7 +62,7 @@ def readText(filename):
     text = ""
     with open(os.path.join(filename), 'r') as fp:
         for line in fp.readlines():
-            text += line
+            text += line.strip("\n")
     return text
 
 
