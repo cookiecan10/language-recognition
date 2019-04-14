@@ -11,13 +11,25 @@ if __name__ == "__main__":
     for taal in languages:
         talen.append( l.Language(taal) )
 
+    totalTotalTime = 0.0
+
     for taal in talen:
         
         taal.createDirs()
 
-        taal.makeUltimodels()
+        taal.deleteUltimodels()
 
-        taal.saveUltiModels()
+        if taal.hasUltimodels():
+            taal.loadUltiModels()
+        else:
+            print("Calculating ({})".format(taal.language))
+
+            totalTime = l.timer(taal.makeUltimodels)
+
+            totalTotalTime += totalTime
+            print("({}) Time: {}".format(taal.language, totalTime))
+            print("")
+            taal.saveUltiModels()
 
     while True:
         text = input("Geef input pls: ")
@@ -26,10 +38,9 @@ if __name__ == "__main__":
         lijstTri = []
         
         for taal in talen:
-            taal.loadUltiModels()
 
             text = taal.prepare(text)
-            
+
             lijstBi.append([taal.language, taal.calcBiChance(text)])
             lijstTri.append([taal.language, taal.calcTriChance(text)])
 
@@ -47,7 +58,7 @@ if __name__ == "__main__":
         for item in lijstTri:
             item[1] = item[1]/totalTri*100
 
-
+        # TODO Make printing look nice
         
         print(lijstBi)
         print(lijstTri)

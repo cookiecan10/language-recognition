@@ -1,8 +1,16 @@
 import os
 import pickle
+import time
+import re
 """
 Language class, deals with its own stuff instead of having to do everything myself.
 """
+
+# Takes a function and its arguments. Than it runs the function and returns the execution time
+def timer(func, *args):
+    start = time.time()             # Start timer
+    func(*args)                     # Unpack args and pass them to the function, run function
+    return time.time() - start      # Return total execution time.
 
 class Model:
 
@@ -24,7 +32,6 @@ class Model:
 
     # A function that takes a text and puts the n-grams into the model
     def addTextAsGrams(self, text):
-
         for i in range(len(text) - (self.gramLength - 1)):
             gram = ""
             for j in range(self.gramLength):
@@ -33,11 +40,18 @@ class Model:
             self.addGram(gram)
 
     # For testing purposes, count all of the grams in the model.
-    def gramCounter(self):
+    def gramCounterTotal(self):
         totalGrams = 0
         for key, value in self.model.items():
             totalGrams += value
         return totalGrams
+
+    # For testing purposes, count all of the grams in the model.
+    def gramCounterDifferent(self):
+        differentGrams = 0
+        for key, value in self.model.items():
+            differentGrams += 1
+        return differentGrams
 
     # combines model into this model
     def combineModel(self, m2):
@@ -50,18 +64,15 @@ class Model:
                 self.model[gram] = count
 
     # Returns individual gram chance,  gram_occurrence / total_grams
-    # WARNING: Has not been tested yet
     def gramChance(self, gram):
         if gram in self.model:
-            return self.model[gram] / self.numOfGrams
+            return 1 -  self.model[gram] / self.numOfGrams
         else:
-            return 1 / self.numOfGrams
+            return 1 - .01 / self.numOfGrams
 
     # Function that takes in some text and calculates the chance that it's the same language as this model
-    # WARNING: Has not been tested yet!!!!
     def realChanceCalculationThing(self, text):
         chance = 1
-        print(text)
         for i in range(len(text) - (self.gramLength - 1)):
             gram = ""
             for j in range(self.gramLength):
@@ -72,17 +83,20 @@ class Model:
 
 class Language:
 
+    # NOTE: You must create the subdirectory yourself, the program will NOT make a subdirectory for you!
     def __init__(self, language, subDir=""):
 
         self.language = language
 
-        self.subDir = os.path.join(subDir,language) # Wil probably add the possibility to specify a subdirectory, to keep main folder empty
+        self.subDir = os.path.join(subDir,language)
 
         self.datasetDir = "datasets"
         self.modelDir = "n-grams"
 
-        self.bi_grams = [] # probably not needed, will only load 1 bi_gram at a time in order to build ultiBi_gram
-        self.tri_grams = []
+        self.blackList = re.compile("[?/()|\n|0-9]")
+
+        # self.bi_grams = [] # probably not needed, will only load 1 bi_gram at a time in order to build ultiBi_gram
+        # self.tri_grams = []
 
         self.ultiBi_gram = Model(2)
         self.ultiTri_gram = Model(3)
@@ -95,11 +109,11 @@ class Language:
         if not os.path.isdir(path):
             os.mkdir(path)
 
-    # Check if every language has its own directory and sub-directories
+    # Create the necessary directories.
     def createDirs(self):
-        self.makeDir(self.subDir)
-        self.makeDir(self.subDir, self.datasetDir)
-        self.makeDir(self.subDir, self.modelDir)
+        self.makeDir(os.path.join(self.subDir))
+        self.makeDir(os.path.join(self.subDir, self.datasetDir))
+        #self.makeDir(os.path.join(self.subDir, self.modelDir))
 
     # Function that checks if a textfile has a corresponding model file
     def isModel(self, filename):
@@ -128,10 +142,9 @@ class Language:
                 text += line.strip("\n")
         return text
 
-    # TODO take out all numbers
     # function that prepares a piece of text for grammification
     def prepare(self, text):
-        return text.replace("\n","").replace("  ", " ").replace("'","").replace("(","").replace(")","")
+        return self.blackList.sub("", text)
     
     # TODO Function that makes and saves a model for every dataset item
     def makeModel(self, filename, length=2):
@@ -145,27 +158,44 @@ class Language:
         return m
     
 
-    # TODO Function: go through every model in the model file, and add it to the ulti-model.
+    # Go through every model in the model file, and comebine it into the ulti-model.
     def makeUltimodels(self):
-        for filename in os.listdir(os.path.join(self.language, self.datasetDir)):
-            text = self.readText(os.path.join(self.language, self.datasetDir, filename))
+        times = [0,0]
+        for filename in os.listdir(os.path.join(self.subDir, self.datasetDir)):
+            text = self.readText(os.path.join(self.subDir, self.datasetDir, filename))
 
             text = self.prepare(text)
-            
-            self.ultiBi_gram.addTextAsGrams(text)
-            self.ultiTri_gram.addTextAsGrams(text)
+
+            times[0] += timer(self.ultiBi_gram.addTextAsGrams, text)
+
+            times[1] += timer(self.ultiTri_gram.addTextAsGrams, text)
+
+        return times
         
     # TODO Function that checks if an ulti-model already exists or not
+    def hasUltimodels(self):
+        if os.path.isfile(os.path.join(self.subDir, "bi_gram")) and os.path.isfile(os.path.join(self.subDir, "tri_gram")):
+            return True
+        return False
 
     # Saving ultimodels
     def saveUltiModels(self):
-        self.saveModel(self.ultiBi_gram, os.path.join(self.language, "bi_gram"))
-        self.saveModel(self.ultiTri_gram, os.path.join(self.language, "tri_gram"))
+        self.saveModel(self.ultiBi_gram, os.path.join(self.subDir, "bi_gram"))
+        self.saveModel(self.ultiTri_gram, os.path.join(self.subDir, "tri_gram"))
 
     def loadUltiModels(self):
-        self.ultiBi_gram = self.loadModel(os.path.join(self.language,"bi_gram"))
-        self.ultiTr_gram = self.loadModel(os.path.join(self.language,"tri_gram"))
-    
+        self.ultiBi_gram = self.loadModel(os.path.join(self.subDir,"bi_gram"))
+        self.ultiTri_gram = self.loadModel(os.path.join(self.subDir,"tri_gram"))
+
+    def deleteUltimodels(self):
+        path = os.path.join(self.subDir, "bi_gram")
+        if os.path.isfile(path):
+            os.remove(path)
+
+        path = os.path.join(self.subDir, "tri_gram")
+        if os.path.isfile(path):
+            os.remove(path)
+
     # TODO Function that returns a chance (using ulti-models and such)
     def calcBiChance(self, text):
         chance = 1
