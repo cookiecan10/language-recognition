@@ -145,10 +145,9 @@ class Language:
                 text += line.strip("\n")
         return text
 
-    # TODO take out all numbers
     # function that prepares a piece of text for grammification
     def prepare(self, text):
-        return self.blackList.sub("", text)
+        return self.blackList.sub("", text).lower()
     
     # TODO Function that makes and saves a model for every dataset item
     def makeModel(self, filename, length=2):
@@ -157,12 +156,12 @@ class Language:
         text = self.prepare(text)
         
         m = Model(length)
-        
         m.addTextAsGrams(text)
+
         return m
     
 
-    # TODO Function: go through every model in the model file, and add it to the ulti-model.
+    # Go through every model in the model file, and add it to the ulti-model.
     def makeUltimodels(self):
         for filename in os.listdir(os.path.join(self.language, self.datasetDir)):
             text = self.readText(os.path.join(self.language, self.datasetDir, filename))
@@ -171,8 +170,7 @@ class Language:
             
             self.ultiBi_gram.addTextAsGrams(text)
             self.ultiTri_gram.addTextAsGrams(text)
-        
-    # TODO Function that checks if an ulti-model already exists or not
+
 
     # Saving ultimodels
     def saveUltiModels(self):

@@ -64,7 +64,7 @@ if __name__ == "__main__":
         for ding in lijstBi:
             if ding[1] > largestBi[1]:
                 largestBi = ding
-            print("{}:  {}%".format(ding[0], ding[1]))
+            print("{:<10}  {:.2f}%".format(ding[0], ding[1]))
 
         print("The language is: {}".format(largestBi[0]))
         print("\nTri-grammen:")
@@ -73,7 +73,7 @@ if __name__ == "__main__":
         for ding in lijstTri:
             if ding[1] > largestTri[1]:
                 largestTri = ding
-            print("{}:  {}%".format(ding[0], ding[1]))
+            print("{:<10}  {:.2f}%".format(ding[0], ding[1]))
 
         print("The language is: {}".format(largestTri[0]))
 
