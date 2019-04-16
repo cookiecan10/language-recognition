@@ -8,8 +8,9 @@ if __name__ == "__main__":
 
     talen = []
 
-    for taal in languages:
-        talen.append( l.Language(taal) )
+    for lang in languages:
+        talen.append(l.Language(lang))
+
 
     totalTotalTime = 0
     

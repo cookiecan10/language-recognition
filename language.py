@@ -69,9 +69,9 @@ class Model:
     # WARNING: Has not been tested yet
     def gramChance(self, gram):
         if gram in self.model:
-            return self.model[gram] / Decimal(self.numOfGrams)
+            return Decimal(Decimal(self.model[gram]) / Decimal(self.numOfGrams))
         else:
-            return 1 / Decimal(self.numOfGrams)
+            return Decimal(0.1) / Decimal(self.numOfGrams)
 
     # Function that takes in some text and calculates the chance that it's the same language as this model
     # WARNING: Has not been tested yet!!!!
@@ -87,7 +87,7 @@ class Model:
 
 class Language:
 
-    def __init__(self, language, subDir=""):
+    def __init__(self, language, subDir="", regex="[?/()|\n|0-9]"):
 
         self.language = language
 
@@ -96,7 +96,7 @@ class Language:
         self.datasetDir = "datasets"
         self.modelDir = "n-grams"
 
-        self.blackList = re.compile("[?/()|\n|0-9]")
+        self.blackList = re.compile(regex)
         
         self.bi_grams = [] # probably not needed, will only load 1 bi_gram at a time in order to build ultiBi_gram
         self.tri_grams = []
@@ -200,6 +200,7 @@ class Language:
     def calcBiChance(self, text):
         chance = 1
         start = time.time()
+        text = self.prepare(text)
         chance *= self.ultiBi_gram.realChanceCalculationThing(text)
         end = time.time()
         #print("BI:  {}: {}".format(self.language,end-start))
@@ -208,6 +209,7 @@ class Language:
     def calcTriChance(self, text):
         chance = 1
         start = time.time()
+        text = self.prepare(text)
         chance *= self.ultiTri_gram.realChanceCalculationThing(text)
         end = time.time()
         #print("TRI: {}: {}".format(self.language,end-start))
