@@ -1,7 +1,6 @@
 import os
 import pickle
 import time
-import re
 from decimal import *
 """
 Language class, deals with its own stuff instead of having to do everything myself.
@@ -49,7 +48,7 @@ class Model:
         return differentGrams
     
     # For testing purposes, count all of the grams in the model.
-    def gramCounterTotal(self):
+    def gramCounter(self):
         totalGrams = 0
         for key, value in self.model.items():
             totalGrams += value
@@ -96,8 +95,6 @@ class Language:
         self.datasetDir = "datasets"
         self.modelDir = "n-grams"
 
-        self.blackList = re.compile("[?/()|\n|0-9]")
-        
         self.bi_grams = [] # probably not needed, will only load 1 bi_gram at a time in order to build ultiBi_gram
         self.tri_grams = []
 
@@ -148,7 +145,7 @@ class Language:
     # TODO take out all numbers
     # function that prepares a piece of text for grammification
     def prepare(self, text):
-        return self.blackList.sub("", text)
+        return text.replace("\n","").replace("  ", " ")
     
     # TODO Function that makes and saves a model for every dataset item
     def makeModel(self, filename, length=2):
